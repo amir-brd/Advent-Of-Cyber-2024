@@ -1,3 +1,5 @@
+![Advent of Cyber](https://github.com/user-attachments/assets/bc2292c4-d13a-4a91-b40f-1e989aad7174)
+
 # Advent-Of-Cyber-2024
 AOC-2024 is a very interesting place to start your journey on cybersecurity , in a gamified , challenging and continuous way 
 
