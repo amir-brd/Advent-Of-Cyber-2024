@@ -1,4 +1,4 @@
-# <center>Day 1 : OPSEC</center>
+<center># Day 1 : OPSEC</center>
 
 ## OPSEC : Operational Security
 
